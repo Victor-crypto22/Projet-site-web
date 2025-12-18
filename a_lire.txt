@@ -1,0 +1,1 @@
+Pour que ça fonctionne correctement, il faut dézipper le dossier zip puis copier le dossier dézippé et le coller dans téléchargement par exemple puis double-cliquer sur le fichier victor.html
